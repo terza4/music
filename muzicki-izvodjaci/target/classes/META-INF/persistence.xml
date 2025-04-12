@@ -9,6 +9,7 @@
         <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
 
         <class>com.muzika.Izvodjac</class>
+        <class>com.muzika.Song</class>
 
         <properties>
             <!-- JDBC konfiguracija -->
